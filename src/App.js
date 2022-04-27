@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import Goods from './component/Goods';
+import Home from './component/Home';
+import Anjian from './component/Anjian';
 
 function App() {
   return (
@@ -17,7 +20,11 @@ function App() {
         >
           Learn React
         </a>
+        <Goods/>
+        <Home/>
+        <Anjian/>
       </header>
+      
     </div>
   );
 }
