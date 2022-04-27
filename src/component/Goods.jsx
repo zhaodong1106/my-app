@@ -2,7 +2,7 @@ import React from 'react'
 
 function Goods() {
   return (
-    <div>Goodssss222bbbbbbbbbbb</div>
+    <div>Goodssss222bbbbbbbbbbbdasdas </div>
   )
 }
 
