@@ -2,7 +2,7 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>Homessssdasdasd</div>
+    <div>Homesss31231s</div>
   )
 }
 
