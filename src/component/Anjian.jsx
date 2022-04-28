@@ -1,9 +1,15 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
-function Anjian() {
+function Anjian(props) {
   return (
-    <div>Anjianaaa2222</div>
+    <div>Anjian</div>
   )
+}
+
+Anjian.propTypes = {
+    name:PropTypes.string,
+    age:PropTypes.number.isRequired
 }
 
 export default Anjian
